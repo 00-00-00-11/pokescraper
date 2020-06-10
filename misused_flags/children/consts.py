@@ -1,0 +1,3 @@
+
+YUBIKEY = ""
+SVC_AUTH_TOKEN = ""
